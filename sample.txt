@@ -1,16 +1,3 @@
 neue zeile
 Robert tries Sample.txt 2.0
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+nicht zu viele whitespaces!
